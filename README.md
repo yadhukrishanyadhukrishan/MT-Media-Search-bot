@@ -29,7 +29,7 @@
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Media-Search-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rafeeq-99/MT-Media-Search-bot)
 ### Hard Way
 
 
@@ -41,7 +41,7 @@
 ## Support
 Contact Me On [Telegram](https://t.me/subinps_bot)
 
-[Update Channel](https://t.me/Mo_Tech_YT)
+[Update Channel](Https://telegram.dog/MRKT_Tech)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
