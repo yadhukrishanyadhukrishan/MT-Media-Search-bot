@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/MRK-YT/MT-Media-Search-bot/stargazers">
-    <img src="https://img.shields.io/github/starsMT-Media-Search-bot/?style=social">
+    <img src="https://img.shields.io/github/stars/MT-Media-Search-bot/?style=social">
 
   </a>
   
