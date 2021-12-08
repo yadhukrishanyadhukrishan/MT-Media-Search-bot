@@ -4,12 +4,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/MRK-YT/MT-Media-Search-bot/stargazers">
-    <img src="https://img.shields.io/github/stars/MT-Media-Search-bot/?style=social">
+    <img src="https://img.shields.io/github/stars/Rafeeq-99/MT-Media-Search-bot/?style=social">
 
   </a>
   
   <a href="https://github.com/Rafeeq-99/MT-Media-Search-bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/MT-Media-Search-bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Rafeeq-99/MT-Media-Search-bot?label=Fork&style=social">
 
   </a>  
 </p>
